@@ -1,4 +1,4 @@
-Here's the frontend for my website: https://plague.vip/ (Be aware this website is still in WIP)
+Here's the frontend for my first ever website: https://plague.vip/
 
 This is the first time I've made a website and dealt with front end so don't be harsh, :D
 
